@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FlexibleUI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Names">
+
+        <item>Aman</item>
+        <item>Baman</item>
+        <item>Chaman</item>
+        <item>Daman</item>
+        <item>Raman</item>
+
+    </string-array>
+
+
+    <string-array name="Details">
+
+        <item>I live in Delhi. I want to study HTML.</item>
+        <item>I live in Mumbai. I want to study Java.</item>
+        <item>I live in Chennai. I want to study C++.</item>
+        <item>I live in Kolkata. I want to study Ruby.</item>
+        <item>I live in Bhopal. I want to study whatever.</item>
+
+    </string-array>
+
+</resources>
